@@ -1,2 +1,2 @@
 # Connect4
-Connect4Project CMPS241 
+Connect4Project 
